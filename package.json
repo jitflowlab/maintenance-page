@@ -1,0 +1,16 @@
+{
+  "name": "@jitflowlab/maintenance-page",
+  "version": "1.0.0",
+  "description": "Docker maintenance page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JitFlow",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "forever": "^1.0.0",
+    "node-fetch": "^2.3.0"
+  }
+}

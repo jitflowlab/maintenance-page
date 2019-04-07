@@ -1,0 +1,5 @@
+.idea
+/node_modules/
+test/reports
+package-lock.json
+package-lock.json.*
